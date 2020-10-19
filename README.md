@@ -5,4 +5,6 @@ Running one vl53l0x with the adafruit example code is pretty easy but running 2 
 
 chkserial.py - Small Python program to read the USB serial data and print to screen. I used this code on a Raspberry Pi read the distances from the arduino running the vl53l0x code plugged into the Pi's USB port and drive a robot based on the distance readings.
 
+https://www.adafruit.com/product/3317
+
 http://www.hackrc.net/arduino_lidar_front.JPEG
